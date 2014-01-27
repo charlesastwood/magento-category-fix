@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<Medialam_CategoryFix>
+			<active>true</active>
+			<codePool>local</codePool>
+		</Medialam_CategoryFix>
+	</modules>
+</config>
